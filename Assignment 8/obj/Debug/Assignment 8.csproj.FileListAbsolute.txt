@@ -1,0 +1,10 @@
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\bin\Debug\Assignment 8.exe.config
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\bin\Debug\Assignment 8.exe
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\bin\Debug\Assignment 8.pdb
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\obj\Debug\Assignment_8.Properties.Resources.resources
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\obj\Debug\Assignment 8.csproj.GenerateResource.cache
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\obj\Debug\Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\obj\Debug\Assignment 8.exe
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\obj\Debug\Assignment 8.pdb
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\obj\Debug\Assignment 8.csprojResolveAssemblyReference.cache
+C:\Users\evetn\source\repos\Assignment 8\Assignment 8\obj\Debug\Assignment_8.OnCampusTickets.resources
